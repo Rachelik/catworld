@@ -2,9 +2,5 @@ Sweet beast yowling nonstop the whole night or lie on your belly and purr when y
 
 I am adding a new line here.
 
-<<<<<<< HEAD
-
-mOre lines
-=======
 something else.
->>>>>>> new-line
+
